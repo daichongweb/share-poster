@@ -1,0 +1,30 @@
+{
+  "name": "daichong/share-poster",
+  "description": "Image synthesis, image processing, personal poster image and sharing image generation",
+  "type": "library",
+  "keywords": [
+    "share",
+    "poster",
+    "image",
+    "watermark"
+  ],
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "DaiChong\\SharePoster\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "daichongweb",
+      "email": "daichongweb@foxmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "ext-json": "*",
+    "ext-gd": "*",
+    "ext-curl": "*",
+    "ext-mbstring": "*"
+  }
+}
