@@ -2,7 +2,7 @@
 Image synthesis, image processing, personal poster image and sharing image generation, Image watermark.
 # Installation
 [github](https://github.com/DaiChongyu/share-poster.git) && 
-[composer](composer require daichong/share-poster) 
+composer (composer require daichong/share-poster) 
 
 # Usage
 
