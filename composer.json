@@ -1,6 +1,6 @@
 {
   "name": "daichong/share-poster",
-  "description": "Image synthesis, image processing, personal poster image and sharing image generation",
+  "description": "Image synthesis, image processing, personal poster image and sharing image generation。生成海报图、水印、调整图片大小、图片中插入文字等等",
   "type": "library",
   "keywords": [
     "share",
