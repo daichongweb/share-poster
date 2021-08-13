@@ -1,7 +1,8 @@
 # share-poster
 Image synthesis, image processing, personal poster image and sharing image generation, Image watermark.
 # Installation
-github && composer 
+[github](https://github.com/DaiChongyu/share-poster.git) && 
+[composer](composer require daichong/share-poster) 
 
 # Usage
 
@@ -73,6 +74,8 @@ $mainBg = (new CopyMerge())
 
 (new Helper())->look($mainBg);
 ```
+# Effect
+<img src="https://github.com/DaiChongyu/phpgd-CreatePoster/blob/1.0.0/demo/success.png?raw=true">
 
 # Contact
 
