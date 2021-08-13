@@ -16,7 +16,7 @@ class Helper
     {
         ob_clean();
         ob_end_clean();
-        header("Content-type:image/png");
+        header('Content-Type: image/png');
         imagepng($imgResource);
         imagedestroy($imgResource);
     }
