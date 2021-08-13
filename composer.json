@@ -6,7 +6,12 @@
     "share",
     "poster",
     "image",
-    "watermark"
+    "watermark",
+    "daichongweb",
+    "daichong",
+    "merge",
+    "text",
+    "draw board"
   ],
   "license": "MIT",
   "autoload": {
